@@ -1,0 +1,53 @@
+.logo{
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+    width: 20%;
+    height: 15vh;
+
+
+
+}
+
+.header_part{
+    background-color: black;
+    display: inline;
+}
+
+.headerr{
+    background-color: darkblue;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+    width: 80%;
+    height: 15vh;
+
+    
+}
+
+.navtag{
+    background-color: blueviolet;
+    width: 20%;
+    height: 85vh;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+    margin-right: 5px;
+
+}
+
+.footerr{
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+    width: 80%;
+    height: 5vh;
+    margin-left: 20%;
+    
+}
+
+.bottomdiv{
+    margin-top: -5vh;
+}
